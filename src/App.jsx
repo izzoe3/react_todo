@@ -16,7 +16,7 @@ export default function App(){
               <input value ={newItem} onChange={ e => setNewItem(e.target.value)} type="text" name="" id="item" />
             </div>
             <button className="btn">Add</button>
-          </form><h1 className="header">Todo List</h1>
+          </form><h1 className="header">Todo List2</h1>
           <ul className="list">
             <li>
               <label>
